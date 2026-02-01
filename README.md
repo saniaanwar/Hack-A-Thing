@@ -38,20 +38,6 @@ IR Sensor:
 - Object presence verification
 
 
-# Technical Challenges 
-
-High-torque servo motors require more current than the nRF7002-DK can supply directly. To address this:
-- The system was validated using lower-torque motors
-- An external battery was used for testing
-- A SolidWorks simulation was created to demonstrate full system capabilities
-
-# Future Improvements
-In the future, this system can be made even smarter and more capable. We can add a high-current power supply that will allow the arm to use its full-torque motors for stronger and smoother movement. 
-Wireless features like Wi-Fi or Bluetooth can enable remote control and monitoring, and adding a camera could help the arm recognize and interact with objects on its own. 
-
-
-
-
 
 
 
