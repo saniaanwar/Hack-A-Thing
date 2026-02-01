@@ -1,11 +1,9 @@
 # Hack-A-Thing - IoT Hackathon
 
 Our Project - An Automated Robotic Arm Control System
+
 Team Members:
-Sai Jayakar Vanam
-Sania Anwar
-Rithvik Shivva
-Umar Makki
+- Sai Jayakar Vanam, Sania Anwar, Rithvik Shivva, Umar Makki
 
 This project implements a smart robotic arm that can be controlled using multiple input methods. A joystick provides smooth, real-time movement, a keypad enables precise gripper control, and an IR sensor adds collision detection for safer operation. 
 All components are coordinated by the Nordic nRF7002-DK, acting as the central controller.
