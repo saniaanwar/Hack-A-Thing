@@ -14,7 +14,8 @@ All components are coordinated by the Nordic nRF7002-DK, acting as the central c
 </p>
 
 <p align="center">
-  <img src="demo2.gif" width="500"/>
+  <img src="demo2.gif" width="300"/>
+  <img src="simulation.gif" width="300"/>
 </p>
 
 
