@@ -8,6 +8,16 @@ Team Members:
 This project implements a smart robotic arm that can be controlled using multiple input methods. A joystick provides smooth, real-time movement, a keypad enables precise gripper control, and an IR sensor adds collision detection for safer operation. 
 All components are coordinated by the Nordic nRF7002-DK, acting as the central controller.
 
+<p align="center">
+  <img src="robotic_arm.png" width="300"/>
+  <img src="board.png" width="300"/>
+</p>
+
+<p align="center">
+  <img src="demo2.png" width="500"/>
+</p>
+
+
 # Hardware Components
 
 1. Nordic nRF7002-DK (Control Board)
